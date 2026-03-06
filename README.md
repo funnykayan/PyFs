@@ -1,0 +1,1 @@
+you run it, it opens a fun little tkinter gui, you either get to create or open an existing pyfs container, add in a user and password. its encrypted with some cryptography stuff or whatever and i made sure you cant just read the raw data.
